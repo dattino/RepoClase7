@@ -1,0 +1,5 @@
+roja
+verde
+amarilla
+madura
+podrida
